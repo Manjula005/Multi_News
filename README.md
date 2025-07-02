@@ -30,7 +30,7 @@ BeautifulSoup & Requests for web scraping
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/multi-news-summarizer.git
+git clone https://github.com/Manjula005/multi-news-summarizer.git
 cd multi-news-summarizer
 2️⃣ Install the required packages
 
